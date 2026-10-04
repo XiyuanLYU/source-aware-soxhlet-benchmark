@@ -1,0 +1,23 @@
+﻿source_id,n_records,title,doi,manuscript_reference_number,eligible_for_table6,test_records_per_seed
+Adepoju2019_ButterFruit,17,Oil extraction from butter fruit (Dacryodes edulis) seeds and its optimization via response surface and artificial neural network,10.4314/njtd.v16i2.2,19,True,12
+Alhanif2026,11,Application of the Box-Behnken Experimental Design to Optimize Coffee Ground Oil Extraction Using the Soxhlet Method,10.33096/jcpe.v11i1.2168,9,True,6
+Amabogha2023_Papaya,17,Optimization of oil extraction from Carica papaya seedoil: A case of response surface methodology,10.30574/gjeta.2023.15.3.0093,16,True,12
+Gebreegziabher2022_Argemone,17,Parametric optimization of Argemone mexicana seed oil extraction by Box-Behnken experimental design and the oil characteristics,10.1016/j.rechem.2022.100570,14,True,12
+Hossain2020_Papaya,11,Experimental Study and Modeling Approach of Response Surface Methodology Coupled with Crow Search Algorithm for Optimizing the Extraction Conditions of Papaya Seed Waste Oil,10.1007/s13369-020-04551-1,15,True,6
+Ijaola2021_PalmKernel,17,Optimizing Elaeis guinesis Kernel Oil Extraction Using N-hexane and Physicochemical Characterization of the Extracted Oil,,17,True,12
+Krinski2025,12,Critical Extraction Parameters for Maximizing Oil Yield from Spent Coffee Grounds,10.3390/en18061346,5,True,7
+Mkhonto2021_CET89,10,2-Methyltetrahydrofuran as a Potential Green Solvent for Lipids Extraction from Spent Coffee Grounds for Fuel Grade Hydrocarbons Production,10.3303/CET2189069,10,True,5
+Mkhonto2022_CET96,14,Optimisation of Fuel-grade Hydrocarbons' Production from Spent Coffee Grounds Using Green Processes,10.3303/CET2296027,13,True,9
+OriginalRef_12,4,Influence of solvent selection and extraction temperature on yield and composition of lipids extracted from spent coffee grounds,10.1016/j.indcrop.2018.04.008,7,False,0
+OriginalRef_29,5,"Optimization of the Oil Extraction, Study the Chemical and Physical Properties of Arabica Spent Coffee Grounds",10.14456/scitechasia.2020.45,6,False,0
+OriginalRef_30,15,Oil extracted from spent coffee grounds as a renewable source for fatty acid methyl ester manufacturing,10.1016/j.fuel.2012.01.023,11,True,10
+OriginalRef_31,32,A biorefinery approach towards valorization of spent coffee ground: Extraction of the oil by supercritical carbon dioxide and utilizing the defatted spent in formulating functional cookies,10.1016/j.fufo.2021.100090,12,True,27
+OriginalRef_33,1,Ultrasonic assisted oil extraction and biodiesel synthesis of Spent Coffee Ground,10.1016/j.fuel.2019.116121,24,False,0
+OriginalRef_34,3,Extraction and Evaluation the Biological Activities of Oil from Spent Coffee Grounds,10.3303/CET1756289,31,False,0
+OriginalRef_35,1,Recovery of spent coffee grounds oil using supercritical CO2: Extraction optimisation and physicochemical properties of oil,10.1080/19476337.2019.1580771,25,False,0
+OriginalRef_36,3,Valorization of Coffee Grounds for Biodiesel Production,10.3303/CET1226045,32,False,0
+OriginalRef_37,1,Extraction of lipids from spent coffee grounds using organic solvents and supercritical carbon dioxide,10.1111/j.1745-4549.2012.00757.x,26,False,0
+OriginalRef_38,1,Supercritical fluid extraction of lipids from spent coffee grounds,10.1016/j.supflu.2009.09.009,27,False,0
+OriginalRef_40,3,Resource Recovery from Waste Coffee Grounds Using Ultrasonic-Assisted Technology for Bioenergy Production,10.3390/en13071770,28,False,0
+OriginalRef_43,1,Extraction of Oil from Spent Grounds Coffee using Ultrasound as Pre-Extraction Method,10.30955/gnc2019.00287,29,False,0
+OriginalRef_44,1,Investigation of Waste Coffee Ground as a Potential Raw Material for Biodiesel Production,,30,False,0

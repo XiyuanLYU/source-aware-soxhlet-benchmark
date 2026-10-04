@@ -1,0 +1,9 @@
+{
+  "gate_count": 4,
+  "baseline_parameters": {
+    "random_forest": {
+      "n_estimators": 300,
+      "min_samples_leaf": 3
+    }
+  }
+}

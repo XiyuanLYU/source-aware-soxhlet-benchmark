@@ -1,0 +1,50 @@
+[
+  {
+    "module": "boost70_search.py",
+    "delivered_sha256": "f9acd13f696e335eca9d7dce5d511f9902c865309cbc4675448571e9f973764f",
+    "original_2026_09_28_sha256": "f9acd13f696e335eca9d7dce5d511f9902c865309cbc4675448571e9f973764f",
+    "identical_to_original_2026_09_28": true
+  },
+  {
+    "module": "conventional_baselines_and_calibration.py",
+    "delivered_sha256": "96c19b49a32bb1d86f696de09b263757779a52453b04daddba0d77753a4ede86",
+    "original_2026_09_28_sha256": "96c19b49a32bb1d86f696de09b263757779a52453b04daddba0d77753a4ede86",
+    "identical_to_original_2026_09_28": true
+  },
+  {
+    "module": "multifeedstock_v12.py",
+    "delivered_sha256": "593c87445f8709893a96d3ac22c61b59a6cada0aed0c2922cd25976ed4e34582",
+    "original_2026_09_28_sha256": "593c87445f8709893a96d3ac22c61b59a6cada0aed0c2922cd25976ed4e34582",
+    "identical_to_original_2026_09_28": true
+  },
+  {
+    "module": "multifeedstock_v12_calibration.py",
+    "delivered_sha256": "1fa91ab6f58beb01fdbe33f0932e599420373335e8a02cf803a0e0ec6a1f7926",
+    "original_2026_09_28_sha256": "1fa91ab6f58beb01fdbe33f0932e599420373335e8a02cf803a0e0ec6a1f7926",
+    "identical_to_original_2026_09_28": true
+  },
+  {
+    "module": "sant_orf_v4.py",
+    "delivered_sha256": "145fc674b0d9e4df4005e1fa02d2fa9f1a130cac42816955fef5bc4e0ccf8b52",
+    "original_2026_09_28_sha256": "145fc674b0d9e4df4005e1fa02d2fa9f1a130cac42816955fef5bc4e0ccf8b52",
+    "identical_to_original_2026_09_28": true
+  },
+  {
+    "module": "v13_hierarchical_search.py",
+    "delivered_sha256": "6252f49379117184da944ca3be3df31bfd180b85a8f9cd72347724d86f66cff0",
+    "original_2026_09_28_sha256": "6252f49379117184da944ca3be3df31bfd180b85a8f9cd72347724d86f66cff0",
+    "identical_to_original_2026_09_28": true
+  },
+  {
+    "module": "v13_locked_confirmation.py",
+    "delivered_sha256": "bccf981e70c63425638d2c4aaf5f9245008be062a06f7a7260481b6c4383a333",
+    "original_2026_09_28_sha256": "bccf981e70c63425638d2c4aaf5f9245008be062a06f7a7260481b6c4383a333",
+    "identical_to_original_2026_09_28": true
+  },
+  {
+    "module": "v14_external_data.py",
+    "delivered_sha256": "f1b509fe74691af1f7eda34a6ddb0dc8946cc8f3907fae6eda8f3b5a011907e8",
+    "original_2026_09_28_sha256": "f1b509fe74691af1f7eda34a6ddb0dc8946cc8f3907fae6eda8f3b5a011907e8",
+    "identical_to_original_2026_09_28": true
+  }
+]
